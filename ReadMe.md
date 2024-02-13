@@ -1,4 +1,4 @@
-
+# Analog clock in MATLAB
 
 Time for each clock was created as the `global` variable in order to allow for updates through deleting the old hands
 
